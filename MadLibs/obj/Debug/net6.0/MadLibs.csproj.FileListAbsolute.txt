@@ -1,0 +1,15 @@
+C:\Users\Stephanie Rey\OneDrive\Dokumente\Studium\CodeAcademy\MadLibs\bin\Debug\net6.0\MadLibs.exe
+C:\Users\Stephanie Rey\OneDrive\Dokumente\Studium\CodeAcademy\MadLibs\bin\Debug\net6.0\MadLibs.deps.json
+C:\Users\Stephanie Rey\OneDrive\Dokumente\Studium\CodeAcademy\MadLibs\bin\Debug\net6.0\MadLibs.runtimeconfig.json
+C:\Users\Stephanie Rey\OneDrive\Dokumente\Studium\CodeAcademy\MadLibs\bin\Debug\net6.0\MadLibs.dll
+C:\Users\Stephanie Rey\OneDrive\Dokumente\Studium\CodeAcademy\MadLibs\bin\Debug\net6.0\MadLibs.pdb
+C:\Users\Stephanie Rey\OneDrive\Dokumente\Studium\CodeAcademy\MadLibs\obj\Debug\net6.0\MadLibs.csproj.AssemblyReference.cache
+C:\Users\Stephanie Rey\OneDrive\Dokumente\Studium\CodeAcademy\MadLibs\obj\Debug\net6.0\MadLibs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stephanie Rey\OneDrive\Dokumente\Studium\CodeAcademy\MadLibs\obj\Debug\net6.0\MadLibs.AssemblyInfoInputs.cache
+C:\Users\Stephanie Rey\OneDrive\Dokumente\Studium\CodeAcademy\MadLibs\obj\Debug\net6.0\MadLibs.AssemblyInfo.cs
+C:\Users\Stephanie Rey\OneDrive\Dokumente\Studium\CodeAcademy\MadLibs\obj\Debug\net6.0\MadLibs.csproj.CoreCompileInputs.cache
+C:\Users\Stephanie Rey\OneDrive\Dokumente\Studium\CodeAcademy\MadLibs\obj\Debug\net6.0\MadLibs.dll
+C:\Users\Stephanie Rey\OneDrive\Dokumente\Studium\CodeAcademy\MadLibs\obj\Debug\net6.0\refint\MadLibs.dll
+C:\Users\Stephanie Rey\OneDrive\Dokumente\Studium\CodeAcademy\MadLibs\obj\Debug\net6.0\MadLibs.pdb
+C:\Users\Stephanie Rey\OneDrive\Dokumente\Studium\CodeAcademy\MadLibs\obj\Debug\net6.0\MadLibs.genruntimeconfig.cache
+C:\Users\Stephanie Rey\OneDrive\Dokumente\Studium\CodeAcademy\MadLibs\obj\Debug\net6.0\ref\MadLibs.dll
