@@ -1,0 +1,15 @@
+C:\Users\Stephanie Rey\OneDrive\Dokumente\Studium\CodeAcademy\StoryTime\bin\Debug\net6.0\StoryTime.exe
+C:\Users\Stephanie Rey\OneDrive\Dokumente\Studium\CodeAcademy\StoryTime\bin\Debug\net6.0\StoryTime.deps.json
+C:\Users\Stephanie Rey\OneDrive\Dokumente\Studium\CodeAcademy\StoryTime\bin\Debug\net6.0\StoryTime.runtimeconfig.json
+C:\Users\Stephanie Rey\OneDrive\Dokumente\Studium\CodeAcademy\StoryTime\bin\Debug\net6.0\StoryTime.dll
+C:\Users\Stephanie Rey\OneDrive\Dokumente\Studium\CodeAcademy\StoryTime\bin\Debug\net6.0\StoryTime.pdb
+C:\Users\Stephanie Rey\OneDrive\Dokumente\Studium\CodeAcademy\StoryTime\obj\Debug\net6.0\StoryTime.csproj.AssemblyReference.cache
+C:\Users\Stephanie Rey\OneDrive\Dokumente\Studium\CodeAcademy\StoryTime\obj\Debug\net6.0\StoryTime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stephanie Rey\OneDrive\Dokumente\Studium\CodeAcademy\StoryTime\obj\Debug\net6.0\StoryTime.AssemblyInfoInputs.cache
+C:\Users\Stephanie Rey\OneDrive\Dokumente\Studium\CodeAcademy\StoryTime\obj\Debug\net6.0\StoryTime.AssemblyInfo.cs
+C:\Users\Stephanie Rey\OneDrive\Dokumente\Studium\CodeAcademy\StoryTime\obj\Debug\net6.0\StoryTime.csproj.CoreCompileInputs.cache
+C:\Users\Stephanie Rey\OneDrive\Dokumente\Studium\CodeAcademy\StoryTime\obj\Debug\net6.0\StoryTime.dll
+C:\Users\Stephanie Rey\OneDrive\Dokumente\Studium\CodeAcademy\StoryTime\obj\Debug\net6.0\refint\StoryTime.dll
+C:\Users\Stephanie Rey\OneDrive\Dokumente\Studium\CodeAcademy\StoryTime\obj\Debug\net6.0\StoryTime.pdb
+C:\Users\Stephanie Rey\OneDrive\Dokumente\Studium\CodeAcademy\StoryTime\obj\Debug\net6.0\StoryTime.genruntimeconfig.cache
+C:\Users\Stephanie Rey\OneDrive\Dokumente\Studium\CodeAcademy\StoryTime\obj\Debug\net6.0\ref\StoryTime.dll
