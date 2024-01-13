@@ -1,0 +1,15 @@
+C:\Users\Stephanie Rey\CodeAcademy\Architect\bin\Debug\net6.0\Architect.exe
+C:\Users\Stephanie Rey\CodeAcademy\Architect\bin\Debug\net6.0\Architect.deps.json
+C:\Users\Stephanie Rey\CodeAcademy\Architect\bin\Debug\net6.0\Architect.runtimeconfig.json
+C:\Users\Stephanie Rey\CodeAcademy\Architect\bin\Debug\net6.0\Architect.dll
+C:\Users\Stephanie Rey\CodeAcademy\Architect\bin\Debug\net6.0\Architect.pdb
+C:\Users\Stephanie Rey\CodeAcademy\Architect\obj\Debug\net6.0\Architect.csproj.AssemblyReference.cache
+C:\Users\Stephanie Rey\CodeAcademy\Architect\obj\Debug\net6.0\Architect.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stephanie Rey\CodeAcademy\Architect\obj\Debug\net6.0\Architect.AssemblyInfoInputs.cache
+C:\Users\Stephanie Rey\CodeAcademy\Architect\obj\Debug\net6.0\Architect.AssemblyInfo.cs
+C:\Users\Stephanie Rey\CodeAcademy\Architect\obj\Debug\net6.0\Architect.csproj.CoreCompileInputs.cache
+C:\Users\Stephanie Rey\CodeAcademy\Architect\obj\Debug\net6.0\Architect.dll
+C:\Users\Stephanie Rey\CodeAcademy\Architect\obj\Debug\net6.0\refint\Architect.dll
+C:\Users\Stephanie Rey\CodeAcademy\Architect\obj\Debug\net6.0\Architect.pdb
+C:\Users\Stephanie Rey\CodeAcademy\Architect\obj\Debug\net6.0\Architect.genruntimeconfig.cache
+C:\Users\Stephanie Rey\CodeAcademy\Architect\obj\Debug\net6.0\ref\Architect.dll
