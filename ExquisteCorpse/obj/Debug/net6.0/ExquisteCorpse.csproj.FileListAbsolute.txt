@@ -1,0 +1,15 @@
+C:\Users\Stephanie Rey\CodeAcademy\ExquisteCorpse\bin\Debug\net6.0\ExquisteCorpse.exe
+C:\Users\Stephanie Rey\CodeAcademy\ExquisteCorpse\bin\Debug\net6.0\ExquisteCorpse.deps.json
+C:\Users\Stephanie Rey\CodeAcademy\ExquisteCorpse\bin\Debug\net6.0\ExquisteCorpse.runtimeconfig.json
+C:\Users\Stephanie Rey\CodeAcademy\ExquisteCorpse\bin\Debug\net6.0\ExquisteCorpse.dll
+C:\Users\Stephanie Rey\CodeAcademy\ExquisteCorpse\bin\Debug\net6.0\ExquisteCorpse.pdb
+C:\Users\Stephanie Rey\CodeAcademy\ExquisteCorpse\obj\Debug\net6.0\ExquisteCorpse.csproj.AssemblyReference.cache
+C:\Users\Stephanie Rey\CodeAcademy\ExquisteCorpse\obj\Debug\net6.0\ExquisteCorpse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stephanie Rey\CodeAcademy\ExquisteCorpse\obj\Debug\net6.0\ExquisteCorpse.AssemblyInfoInputs.cache
+C:\Users\Stephanie Rey\CodeAcademy\ExquisteCorpse\obj\Debug\net6.0\ExquisteCorpse.AssemblyInfo.cs
+C:\Users\Stephanie Rey\CodeAcademy\ExquisteCorpse\obj\Debug\net6.0\ExquisteCorpse.csproj.CoreCompileInputs.cache
+C:\Users\Stephanie Rey\CodeAcademy\ExquisteCorpse\obj\Debug\net6.0\ExquisteCorpse.dll
+C:\Users\Stephanie Rey\CodeAcademy\ExquisteCorpse\obj\Debug\net6.0\refint\ExquisteCorpse.dll
+C:\Users\Stephanie Rey\CodeAcademy\ExquisteCorpse\obj\Debug\net6.0\ExquisteCorpse.pdb
+C:\Users\Stephanie Rey\CodeAcademy\ExquisteCorpse\obj\Debug\net6.0\ExquisteCorpse.genruntimeconfig.cache
+C:\Users\Stephanie Rey\CodeAcademy\ExquisteCorpse\obj\Debug\net6.0\ref\ExquisteCorpse.dll
