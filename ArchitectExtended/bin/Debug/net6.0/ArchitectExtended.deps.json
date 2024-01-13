@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ArchitectExtended/1.0.0": {
+        "runtime": {
+          "ArchitectExtended.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ArchitectExtended/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\Stephanie Rey\CodeAcademy\ArchitectExtended\obj\Debug\net6.0\ArchitectExtended.csproj.AssemblyReference.cache
+C:\Users\Stephanie Rey\CodeAcademy\ArchitectExtended\obj\Debug\net6.0\ArchitectExtended.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stephanie Rey\CodeAcademy\ArchitectExtended\obj\Debug\net6.0\ArchitectExtended.AssemblyInfoInputs.cache
+C:\Users\Stephanie Rey\CodeAcademy\ArchitectExtended\obj\Debug\net6.0\ArchitectExtended.AssemblyInfo.cs
+C:\Users\Stephanie Rey\CodeAcademy\ArchitectExtended\obj\Debug\net6.0\ArchitectExtended.csproj.CoreCompileInputs.cache
+C:\Users\Stephanie Rey\CodeAcademy\ArchitectExtended\bin\Debug\net6.0\ArchitectExtended.exe
+C:\Users\Stephanie Rey\CodeAcademy\ArchitectExtended\bin\Debug\net6.0\ArchitectExtended.deps.json
+C:\Users\Stephanie Rey\CodeAcademy\ArchitectExtended\bin\Debug\net6.0\ArchitectExtended.runtimeconfig.json
+C:\Users\Stephanie Rey\CodeAcademy\ArchitectExtended\bin\Debug\net6.0\ArchitectExtended.dll
+C:\Users\Stephanie Rey\CodeAcademy\ArchitectExtended\bin\Debug\net6.0\ArchitectExtended.pdb
+C:\Users\Stephanie Rey\CodeAcademy\ArchitectExtended\obj\Debug\net6.0\ArchitectExtended.dll
+C:\Users\Stephanie Rey\CodeAcademy\ArchitectExtended\obj\Debug\net6.0\refint\ArchitectExtended.dll
+C:\Users\Stephanie Rey\CodeAcademy\ArchitectExtended\obj\Debug\net6.0\ArchitectExtended.pdb
+C:\Users\Stephanie Rey\CodeAcademy\ArchitectExtended\obj\Debug\net6.0\ArchitectExtended.genruntimeconfig.cache
+C:\Users\Stephanie Rey\CodeAcademy\ArchitectExtended\obj\Debug\net6.0\ref\ArchitectExtended.dll
