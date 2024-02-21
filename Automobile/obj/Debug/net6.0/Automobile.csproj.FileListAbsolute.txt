@@ -1,0 +1,15 @@
+C:\Users\Stephanie Rey\OneDrive\Dokumente\Studium\CodeAcademy\Automobile\obj\Debug\net6.0\Automobile.csproj.AssemblyReference.cache
+C:\Users\Stephanie Rey\OneDrive\Dokumente\Studium\CodeAcademy\Automobile\obj\Debug\net6.0\Automobile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stephanie Rey\OneDrive\Dokumente\Studium\CodeAcademy\Automobile\obj\Debug\net6.0\Automobile.AssemblyInfoInputs.cache
+C:\Users\Stephanie Rey\OneDrive\Dokumente\Studium\CodeAcademy\Automobile\obj\Debug\net6.0\Automobile.AssemblyInfo.cs
+C:\Users\Stephanie Rey\OneDrive\Dokumente\Studium\CodeAcademy\Automobile\obj\Debug\net6.0\Automobile.csproj.CoreCompileInputs.cache
+C:\Users\Stephanie Rey\OneDrive\Dokumente\Studium\CodeAcademy\Automobile\bin\Debug\net6.0\Automobile.exe
+C:\Users\Stephanie Rey\OneDrive\Dokumente\Studium\CodeAcademy\Automobile\bin\Debug\net6.0\Automobile.deps.json
+C:\Users\Stephanie Rey\OneDrive\Dokumente\Studium\CodeAcademy\Automobile\bin\Debug\net6.0\Automobile.runtimeconfig.json
+C:\Users\Stephanie Rey\OneDrive\Dokumente\Studium\CodeAcademy\Automobile\bin\Debug\net6.0\Automobile.dll
+C:\Users\Stephanie Rey\OneDrive\Dokumente\Studium\CodeAcademy\Automobile\bin\Debug\net6.0\Automobile.pdb
+C:\Users\Stephanie Rey\OneDrive\Dokumente\Studium\CodeAcademy\Automobile\obj\Debug\net6.0\Automobile.dll
+C:\Users\Stephanie Rey\OneDrive\Dokumente\Studium\CodeAcademy\Automobile\obj\Debug\net6.0\refint\Automobile.dll
+C:\Users\Stephanie Rey\OneDrive\Dokumente\Studium\CodeAcademy\Automobile\obj\Debug\net6.0\Automobile.pdb
+C:\Users\Stephanie Rey\OneDrive\Dokumente\Studium\CodeAcademy\Automobile\obj\Debug\net6.0\Automobile.genruntimeconfig.cache
+C:\Users\Stephanie Rey\OneDrive\Dokumente\Studium\CodeAcademy\Automobile\obj\Debug\net6.0\ref\Automobile.dll

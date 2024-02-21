@@ -1,0 +1,15 @@
+C:\Users\Stephanie Rey\OneDrive\Dokumente\Studium\CodeAcademy\MagicInheritance\bin\Debug\net6.0\MagicInheritance.exe
+C:\Users\Stephanie Rey\OneDrive\Dokumente\Studium\CodeAcademy\MagicInheritance\bin\Debug\net6.0\MagicInheritance.deps.json
+C:\Users\Stephanie Rey\OneDrive\Dokumente\Studium\CodeAcademy\MagicInheritance\bin\Debug\net6.0\MagicInheritance.runtimeconfig.json
+C:\Users\Stephanie Rey\OneDrive\Dokumente\Studium\CodeAcademy\MagicInheritance\bin\Debug\net6.0\MagicInheritance.dll
+C:\Users\Stephanie Rey\OneDrive\Dokumente\Studium\CodeAcademy\MagicInheritance\bin\Debug\net6.0\MagicInheritance.pdb
+C:\Users\Stephanie Rey\OneDrive\Dokumente\Studium\CodeAcademy\MagicInheritance\obj\Debug\net6.0\MagicInheritance.csproj.AssemblyReference.cache
+C:\Users\Stephanie Rey\OneDrive\Dokumente\Studium\CodeAcademy\MagicInheritance\obj\Debug\net6.0\MagicInheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stephanie Rey\OneDrive\Dokumente\Studium\CodeAcademy\MagicInheritance\obj\Debug\net6.0\MagicInheritance.AssemblyInfoInputs.cache
+C:\Users\Stephanie Rey\OneDrive\Dokumente\Studium\CodeAcademy\MagicInheritance\obj\Debug\net6.0\MagicInheritance.AssemblyInfo.cs
+C:\Users\Stephanie Rey\OneDrive\Dokumente\Studium\CodeAcademy\MagicInheritance\obj\Debug\net6.0\MagicInheritance.csproj.CoreCompileInputs.cache
+C:\Users\Stephanie Rey\OneDrive\Dokumente\Studium\CodeAcademy\MagicInheritance\obj\Debug\net6.0\MagicInheritance.dll
+C:\Users\Stephanie Rey\OneDrive\Dokumente\Studium\CodeAcademy\MagicInheritance\obj\Debug\net6.0\refint\MagicInheritance.dll
+C:\Users\Stephanie Rey\OneDrive\Dokumente\Studium\CodeAcademy\MagicInheritance\obj\Debug\net6.0\MagicInheritance.pdb
+C:\Users\Stephanie Rey\OneDrive\Dokumente\Studium\CodeAcademy\MagicInheritance\obj\Debug\net6.0\MagicInheritance.genruntimeconfig.cache
+C:\Users\Stephanie Rey\OneDrive\Dokumente\Studium\CodeAcademy\MagicInheritance\obj\Debug\net6.0\ref\MagicInheritance.dll

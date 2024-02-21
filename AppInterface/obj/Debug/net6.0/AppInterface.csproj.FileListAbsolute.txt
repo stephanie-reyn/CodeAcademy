@@ -1,0 +1,15 @@
+C:\Users\Stephanie Rey\OneDrive\Dokumente\Studium\CodeAcademy\AppInterface\bin\Debug\net6.0\AppInterface.exe
+C:\Users\Stephanie Rey\OneDrive\Dokumente\Studium\CodeAcademy\AppInterface\bin\Debug\net6.0\AppInterface.deps.json
+C:\Users\Stephanie Rey\OneDrive\Dokumente\Studium\CodeAcademy\AppInterface\bin\Debug\net6.0\AppInterface.runtimeconfig.json
+C:\Users\Stephanie Rey\OneDrive\Dokumente\Studium\CodeAcademy\AppInterface\bin\Debug\net6.0\AppInterface.dll
+C:\Users\Stephanie Rey\OneDrive\Dokumente\Studium\CodeAcademy\AppInterface\bin\Debug\net6.0\AppInterface.pdb
+C:\Users\Stephanie Rey\OneDrive\Dokumente\Studium\CodeAcademy\AppInterface\obj\Debug\net6.0\AppInterface.csproj.AssemblyReference.cache
+C:\Users\Stephanie Rey\OneDrive\Dokumente\Studium\CodeAcademy\AppInterface\obj\Debug\net6.0\AppInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stephanie Rey\OneDrive\Dokumente\Studium\CodeAcademy\AppInterface\obj\Debug\net6.0\AppInterface.AssemblyInfoInputs.cache
+C:\Users\Stephanie Rey\OneDrive\Dokumente\Studium\CodeAcademy\AppInterface\obj\Debug\net6.0\AppInterface.AssemblyInfo.cs
+C:\Users\Stephanie Rey\OneDrive\Dokumente\Studium\CodeAcademy\AppInterface\obj\Debug\net6.0\AppInterface.csproj.CoreCompileInputs.cache
+C:\Users\Stephanie Rey\OneDrive\Dokumente\Studium\CodeAcademy\AppInterface\obj\Debug\net6.0\AppInterface.dll
+C:\Users\Stephanie Rey\OneDrive\Dokumente\Studium\CodeAcademy\AppInterface\obj\Debug\net6.0\refint\AppInterface.dll
+C:\Users\Stephanie Rey\OneDrive\Dokumente\Studium\CodeAcademy\AppInterface\obj\Debug\net6.0\AppInterface.pdb
+C:\Users\Stephanie Rey\OneDrive\Dokumente\Studium\CodeAcademy\AppInterface\obj\Debug\net6.0\AppInterface.genruntimeconfig.cache
+C:\Users\Stephanie Rey\OneDrive\Dokumente\Studium\CodeAcademy\AppInterface\obj\Debug\net6.0\ref\AppInterface.dll

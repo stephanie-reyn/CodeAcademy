@@ -1,0 +1,15 @@
+C:\Users\Stephanie Rey\OneDrive\Dokumente\Studium\CodeAcademy\DatingApp\bin\Debug\net6.0\DatingApp.exe
+C:\Users\Stephanie Rey\OneDrive\Dokumente\Studium\CodeAcademy\DatingApp\bin\Debug\net6.0\DatingApp.deps.json
+C:\Users\Stephanie Rey\OneDrive\Dokumente\Studium\CodeAcademy\DatingApp\bin\Debug\net6.0\DatingApp.runtimeconfig.json
+C:\Users\Stephanie Rey\OneDrive\Dokumente\Studium\CodeAcademy\DatingApp\bin\Debug\net6.0\DatingApp.dll
+C:\Users\Stephanie Rey\OneDrive\Dokumente\Studium\CodeAcademy\DatingApp\bin\Debug\net6.0\DatingApp.pdb
+C:\Users\Stephanie Rey\OneDrive\Dokumente\Studium\CodeAcademy\DatingApp\obj\Debug\net6.0\DatingApp.csproj.AssemblyReference.cache
+C:\Users\Stephanie Rey\OneDrive\Dokumente\Studium\CodeAcademy\DatingApp\obj\Debug\net6.0\DatingApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stephanie Rey\OneDrive\Dokumente\Studium\CodeAcademy\DatingApp\obj\Debug\net6.0\DatingApp.AssemblyInfoInputs.cache
+C:\Users\Stephanie Rey\OneDrive\Dokumente\Studium\CodeAcademy\DatingApp\obj\Debug\net6.0\DatingApp.AssemblyInfo.cs
+C:\Users\Stephanie Rey\OneDrive\Dokumente\Studium\CodeAcademy\DatingApp\obj\Debug\net6.0\DatingApp.csproj.CoreCompileInputs.cache
+C:\Users\Stephanie Rey\OneDrive\Dokumente\Studium\CodeAcademy\DatingApp\obj\Debug\net6.0\DatingApp.dll
+C:\Users\Stephanie Rey\OneDrive\Dokumente\Studium\CodeAcademy\DatingApp\obj\Debug\net6.0\refint\DatingApp.dll
+C:\Users\Stephanie Rey\OneDrive\Dokumente\Studium\CodeAcademy\DatingApp\obj\Debug\net6.0\DatingApp.pdb
+C:\Users\Stephanie Rey\OneDrive\Dokumente\Studium\CodeAcademy\DatingApp\obj\Debug\net6.0\DatingApp.genruntimeconfig.cache
+C:\Users\Stephanie Rey\OneDrive\Dokumente\Studium\CodeAcademy\DatingApp\obj\Debug\net6.0\ref\DatingApp.dll
